@@ -18,3 +18,10 @@
 #' A dataset containing the output of addExposures(records).
 #' Used to demonstrate calculations.
 "exposures"
+
+#' Mortality tables for A/E analysis
+#'
+#' A list containing several tidy mortality tables that can be joined to an exposure data frame.
+#' Find more tables here - github.com/ActuarialAnalyst/LongMortalityTables. Tables are from the SOA website.
+"mortality_tables"
+

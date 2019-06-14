@@ -1,6 +1,6 @@
 Package: expstudies
 Title: Calculate Exposures, Assign Records to Intervals
-Version: 0.0.1
+Version: 0.0.5
 Authors@R: 
     person(given = "Matthew", family = "Caseres", email = "matthewcaseres@outlook.com",
     role = c("aut", "cre"))
@@ -15,11 +15,11 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
 LinkingTo: Rcpp
-Suggests: pander, knitr, rmarkdown
+Suggests: pander, knitr, rmarkdown, testthat, tidyr
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2019-05-16 21:18:43 UTC; matcaseres
+Packaged: 2019-06-14 10:59:04 UTC; Mat Caseres
 Author: Matthew Caseres [aut, cre]
 Maintainer: Matthew Caseres <matthewcaseres@outlook.com>
 Repository: CRAN
-Date/Publication: 2019-05-17 08:00:08 UTC
+Date/Publication: 2019-06-14 11:20:03 UTC
